@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Ivan Andrés Rodriguez Rodriguez
-- Rafael Alfonso Rivera Restrepo
+- Rafael Alfonso Rivera  Restrepo
 - Luis Eliecer Mendoza Perpiñan
 
 ## Descripción
